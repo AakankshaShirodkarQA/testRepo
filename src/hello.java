@@ -3,7 +3,6 @@ public class hello {
         System.out.println("GithubSession");
         System.out.println("GithubSession1");
 
-        System.out.println("GithubSession2");
 
         System.out.println("GithubSession3");
 
